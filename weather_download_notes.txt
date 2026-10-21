@@ -1,0 +1,6 @@
+Weather download notes
+
+Rawalpindi: 429 Client Error: Too Many Requests for url: https://archive-api.open-meteo.com/v1/archive?latitude=33.5651&longitude=73.0169&start_date=2019-01-01&end_date=2026-05-31&daily=temperature_2m_mean&daily=
+Sargodha: 429 Client Error: Too Many Requests for url: https://archive-api.open-meteo.com/v1/archive?latitude=32.0836&longitude=72.6711&start_date=2019-01-01&end_date=2026-05-31&daily=temperature_2m_mean&daily=
+Sialkot: 429 Client Error: Too Many Requests for url: https://archive-api.open-meteo.com/v1/archive?latitude=32.4945&longitude=74.5229&start_date=2019-01-01&end_date=2026-05-31&daily=temperature_2m_mean&daily=
+Sukkur: 429 Client Error: Too Many Requests for url: https://archive-api.open-meteo.com/v1/archive?latitude=27.7052&longitude=68.8574&start_date=2019-01-01&end_date=2026-05-31&daily=temperature_2m_mean&daily=

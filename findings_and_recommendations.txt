@@ -1,0 +1,16 @@
+SMOGWATCH FINDINGS
+
+1. Lahore has the highest average PM2.5 in this dataset (78.96, units unverified).
+2. Quetta has the lowest average PM2.5 in this dataset (19.66, units unverified).
+3. January has the highest monthly average across available records (81.17, units unverified).
+4. August has the lowest monthly average across available records (33.21, units unverified).
+5. These are descriptive patterns in the supplied dataset; source, units, and measurement methods must be verified before interpreting them as real-world pollution findings.
+
+RECOMMENDATIONS
+
+1. Verify the PM2.5 dataset publisher, collection method, and units.
+2. Investigate unusual high values against the source before removing or changing them.
+3. Use additional validated monitoring data to investigate city and seasonal patterns.
+4. Treat weather correlations as associations, not proof that weather caused PM2.5 changes.
+5. Compare with WHO guidelines only after confirming the pollutant units and matching averaging periods.
+6. Document data limitations and avoid presenting estimates as official measurements.
